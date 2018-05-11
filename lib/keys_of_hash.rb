@@ -3,5 +3,6 @@ class Hash
     # code goes here
     self.each do |key, value|
       
+      
   end
 end
