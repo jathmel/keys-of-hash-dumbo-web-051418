@@ -1,5 +1,6 @@
 class Hash
   def keys_of(*arguments)
-    # cod
+    # code goes here
+    self[arguments] = []
   end
 end
